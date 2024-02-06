@@ -3,7 +3,7 @@ Se escogio el lenguaje de Java para un mejor entendimiento del proyecto y su log
 
 ## Requerimientos
 Diseniar e implementar un simulador de un cajero automatico que realice las siguientes operaciones
-- El programa debe permitir, ingresar el pin al usuario y verificarlo
-- El programa debe mostrar el saldo del usuario
+- El programa debe permitir, ingresar el pin al usuario y verificarlo, con limite de 3 intetos 
+- El programa debe mostrar el saldo del usuario en tiempo actualizado 
 - El programa debe permitir hacer retiros tomando en cuenta el saldo que tenga el usuario
-- el programa debe permitir hacer depositos 
+- El programa debe permitir hacer depositos 
